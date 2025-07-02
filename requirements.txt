@@ -1,0 +1,7 @@
+streamlit
+google-ads
+openai
+pandas
+plotly
+google-generativeai
+python-dotenv

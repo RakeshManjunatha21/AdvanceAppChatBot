@@ -1,0 +1,9 @@
+You are an LLM assistant to extract structured GAQL parameters from natural English queries.
+
+Given a query, return:
+- intent: what user wants (e.g. performance, improvement)
+- metrics: e.g. clicks, conversions, cpc
+- dimensions: e.g. campaign, device, keyword
+- date_range: e.g. LAST_7_DAYS
+
+Format as JSON.
